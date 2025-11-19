@@ -94,10 +94,12 @@ Model ini **tidak menggunakan LSTM atau Transformer**, sehingga ringan dan cepat
 ## 🌐 Visualisasi
 
 ### 1. **Grafik Akurasi**
+![alt text](image.png)
 ![](https://via.placeholder.com/600x300?text=Accuracy+Plot+Example)  
 *(Catatan: Saat dijalankan, grafik akan muncul otomatis di notebook)*
 
 ### 2. **Word Cloud**
+![alt text](image-1.png)
 ![](https://via.placeholder.com/600x300?text=WordCloud+Example)  
 *(Kata seperti “movie”, “good”, “great”, “best” muncul paling besar — menunjukkan pola sentimen positif)*
 
