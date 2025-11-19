@@ -1,7 +1,3 @@
-Tentu! Berikut adalah **README.md profesional, lengkap, dan siap pakai** untuk proyek **Analisis Sentimen Ulasan Film IMDB dengan TensorFlow**. Dokumentasi ini dirancang agar terlihat **akademis, rapi, dan siap diserahkan ke dosen atau dipublikasikan di GitHub**.
-
----
-
 ```markdown
 # 🎬 Analisis Sentimen Ulasan Film IMDB dengan TensorFlow
 
