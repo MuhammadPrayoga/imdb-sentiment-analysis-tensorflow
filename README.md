@@ -132,11 +132,4 @@ with open("model/tokenizer.pickle", "wb") as f:
 2. TensorFlow Official Guide: [Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
 3. Scikit-learn: [Text Feature Extraction](https://scikit-learn.org/stable/modules/feature_extraction.html)
 
-## 👤 Dibuat Oleh  
-**Muhammad Prayoga Putra Mahardhika**  
-Mahasiswa Universitas Pelita Bangsa 
-Universitas Pelita Bangsa 
-Tanggal: November 2025  
-
 > *Proyek ini dibuat untuk keperluan akademik dan pembelajaran pribadi. Tidak untuk tujuan komersial.*
-```
