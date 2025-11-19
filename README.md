@@ -33,6 +33,7 @@ sentiment_analysis_project/
 ├── IMDB Dataset.csv                 ← File dataset asli (download dari Kaggle)
 ├── sentiment_analysis.ipynb         ← Notebook Jupyter lengkap (kode + dokumentasi)
 ├── README.md                        ← Dokumentasi ini
+├── .gitignore                       ← File yang diabaikan oleh Git
 ├── LICENSE                          ← Lisensi MIT
 └── model/                           ← (Opsional) Folder penyimpanan model
     ├── sentiment_model.h5           ← Model yang telah dilatih
