@@ -6,11 +6,6 @@
 
 Proyek ini mengembangkan model **machine learning berbasis TensorFlow** untuk memprediksi sentimen (positif/negatif) dari ulasan film berdasarkan teksnya. Model dilatih menggunakan dataset **IMDB Movie Reviews** yang terdiri dari 50.000 ulasan yang sudah dilabeli secara manual.
 
-Proyek ini cocok untuk:
-- Mahasiswa tingkat awal di bidang Data Science / Machine Learning
-- Tugas praktikum pemrograman atau pembelajaran mesin
-- Pembelajaran mandiri dalam pemrosesan bahasa alami (NLP)
-
 Model yang digunakan sangat sederhana namun efektif, sehingga mudah dipahami dan dijelaskan — tanpa memerlukan GPU atau komputasi tingkat lanjut.
 
 ## 🛠️ Teknologi & Tools
