@@ -1,9 +1,6 @@
-```markdown
 # 🎬 Analisis Sentimen Ulasan Film IMDB dengan TensorFlow
 
 > *Mengklasifikasikan ulasan film sebagai positif atau negatif menggunakan model neural network sederhana — untuk pemula, dengan dokumentasi lengkap.*
-
----
 
 ## 📌 Deskripsi Proyek
 
@@ -15,8 +12,6 @@ Proyek ini cocok untuk:
 - Pembelajaran mandiri dalam pemrosesan bahasa alami (NLP)
 
 Model yang digunakan sangat sederhana namun efektif, sehingga mudah dipahami dan dijelaskan — tanpa memerlukan GPU atau komputasi tingkat lanjut.
-
----
 
 ## 🛠️ Teknologi & Tools
 
@@ -32,8 +27,6 @@ Model yang digunakan sangat sederhana namun efektif, sehingga mudah dipahami dan
 
 > ✅ Semua library dapat diinstal melalui `pip` atau `conda`.
 
----
-
 ## 📂 Struktur Proyek
 
 ```
@@ -45,8 +38,6 @@ sentiment_analysis_project/
     ├── sentiment_model.h5           ← Model yang telah dilatih
     └── tokenizer.pickle             ← Tokenizer yang digunakan
 ```
-
----
 
 ## 📥 Cara Menggunakan Proyek
 
@@ -80,8 +71,6 @@ pip install tensorflow pandas scikit-learn matplotlib wordcloud
 - Word cloud kata-kata paling umum
 - Prediksi sentimen dari ulasan baru (contoh di notebook)
 
----
-
 ## 📊 Hasil dan Performa Model
 
 | Metrik | Nilai |
@@ -93,8 +82,6 @@ pip install tensorflow pandas scikit-learn matplotlib wordcloud
 | Panjang Ulasan | Dipadatkan ke 500 kata |
 
 > 📈 Model menunjukkan **overfitting minimal**, dengan akurasi latih dan validasi yang seimbang — menandakan model generalisasi dengan baik.
-
----
 
 ## 🧠 Penjelasan Singkat Teknis
 
@@ -109,8 +96,6 @@ pip install tensorflow pandas scikit-learn matplotlib wordcloud
 
 Model ini **tidak menggunakan LSTM atau Transformer**, sehingga ringan dan cepat — ideal untuk pembelajaran dasar NLP.
 
----
-
 ## 🌐 Visualisasi
 
 ### 1. **Grafik Akurasi**
@@ -122,8 +107,6 @@ Model ini **tidak menggunakan LSTM atau Transformer**, sehingga ringan dan cepat
 *(Kata seperti “movie”, “good”, “great”, “best” muncul paling besar — menunjukkan pola sentimen positif)*
 
 > ⚠️ Untuk melihat visualisasi asli, jalankan notebook di VSCode atau Google Colab.
-
----
 
 ## 💡 Fitur Tambahan (Opsional)
 
@@ -141,8 +124,6 @@ with open("model/tokenizer.pickle", "wb") as f:
     pickle.dump(tokenizer, f)
 ```
 
----
-
 ## 📝 Kesimpulan
 
 - Proyek ini berhasil membangun model **klasifikasi sentimen dengan akurasi >80%** hanya dari teks ulasan.
@@ -150,15 +131,11 @@ with open("model/tokenizer.pickle", "wb") as f:
 - Cocok sebagai **tugas praktikum, portofolio, atau fondasi belajar NLP**.
 - Dapat dikembangkan lebih lanjut dengan teknik seperti **BERT, LSTM, atau fine-tuning**.
 
----
-
 ## 📚 Referensi
 
 1. [IMDB Movie Reviews Dataset - Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 2. TensorFlow Official Guide: [Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
 3. Scikit-learn: [Text Feature Extraction](https://scikit-learn.org/stable/modules/feature_extraction.html)
-
----
 
 ## 👤 Dibuat Oleh  
 **Muhammad Prayoga Putra Mahardhika**  
