@@ -94,11 +94,11 @@ Model ini **tidak menggunakan LSTM atau Transformer**, sehingga ringan dan cepat
 ## 🌐 Visualisasi
 
 ### 1. **Grafik Akurasi**
-![alt text](image.png)
+![alt text](img/image.png)
 ![](https://via.placeholder.com/600x300?text=Accuracy+Plot+Example)  
 
 ### 2. **Word Cloud**
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 ![](https://via.placeholder.com/600x300?text=WordCloud+Example)  
 *(Kata seperti “movie”, “good”, “great”, “best” muncul paling besar — menunjukkan pola sentimen positif)*
 
