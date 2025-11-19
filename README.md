@@ -1,6 +1,10 @@
 # 🎬 Analisis Sentimen Ulasan Film IMDB dengan TensorFlow
 
-> *Mengklasifikasikan ulasan film sebagai positif atau negatif menggunakan model neural network sederhana — untuk pemula, dengan dokumentasi lengkap.*
+> *Mengklasifikasikan ulasan film sebagai positif atau negatif menggunakan model neural network sederhana.*
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## 📌 Deskripsi Proyek
 
@@ -29,6 +33,7 @@ sentiment_analysis_project/
 ├── IMDB Dataset.csv                 ← File dataset asli (download dari Kaggle)
 ├── sentiment_analysis.ipynb         ← Notebook Jupyter lengkap (kode + dokumentasi)
 ├── README.md                        ← Dokumentasi ini
+├── LICENSE                          ← Lisensi MIT
 └── model/                           ← (Opsional) Folder penyimpanan model
     ├── sentiment_model.h5           ← Model yang telah dilatih
     └── tokenizer.pickle             ← Tokenizer yang digunakan
